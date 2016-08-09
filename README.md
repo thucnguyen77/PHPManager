@@ -1,5 +1,5 @@
 # PHPManager
-PHP Manager for IIS
+## PHP Manager for IIS
 
 PHP Manager for IIS is a tool for managing one or many PHP installations on IIS 7 and IIS 7.5 servers.
 
